@@ -1,0 +1,26 @@
+{
+  "name": "bdn-python-pack",
+  "displayName": "BDN Python Pack",
+  "description": "List popular extensions for Python",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "publisher": "buiducnhat",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/buiducnhat/python-pack.git"
+  },
+  "extensionPack": [
+    "ms-python.python",
+    "donjayamanne.python-extension-pack",
+    "kevinrose.vsc-python-indent",
+    "ms-python.vscode-pylance",
+    "njpwerner.autodocstring",
+    "ms-python.isort",
+    "ms-toolsai.jupyter"
+  ]
+}
