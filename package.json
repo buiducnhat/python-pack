@@ -2,7 +2,7 @@
   "name": "bdn-python-pack",
   "displayName": "BDN Python Pack",
   "description": "List popular extensions for Python",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.81.0"
   },
@@ -21,6 +21,10 @@
     "ms-python.vscode-pylance",
     "njpwerner.autodocstring",
     "ms-python.isort",
-    "ms-toolsai.jupyter"
+    "ms-toolsai.jupyter",
+    "ms-python.black-formatter",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "VisualStudioExptTeam.intellicode-api-usage-examples",
+    "oderwat.indent-rainbow"
   ]
 }
